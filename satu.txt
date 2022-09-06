@@ -1,2 +1,7 @@
 ini merupakan salah satu contoh isi file:
--m
+-makan
+-minum
+-bermain
+-belajar
+-membuat sesuatu
+-menghasilkan uang
