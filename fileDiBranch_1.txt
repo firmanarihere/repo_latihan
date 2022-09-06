@@ -1,0 +1,5 @@
+Ini contoh file baru di branch_1
+
+Ini untuk commit pertama di branch_1
+Saya menambahkan teks ini
+Dengan tujuan untuk merubah isi file
